@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Growing and Learning Experiences"
-date:       2020-01-23 20:42:34 +0000
+date:       2020-01-23 15:42:35 -0500
 permalink:  growing_and_learning_experiences
 ---
 
