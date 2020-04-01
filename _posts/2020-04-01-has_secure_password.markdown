@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Has_Secure_Password"
-date:       2020-04-01 16:17:08 +0000
+date:       2020-04-01 12:17:09 -0400
 permalink:  has_secure_password
 ---
 
